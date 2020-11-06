@@ -17,9 +17,12 @@ header {
 }
 
 footer {
-    margin:3px;
+    margin: 3px;
 	padding:10px 10px 10px 10px;
     font-style: italic;
 	font-size: 90%;
 }
 
+main p{
+    padding:10px 10px 10px 10px;
+}
